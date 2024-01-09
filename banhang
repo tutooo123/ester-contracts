@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang Web Bán Hàng</title>
+</head>
+<body>
+
+<header>
+    <h1>Trang Web Bán Hàng</h1>
+    <nav>
+        <ul>
+            <li><a href="#">Trang chủ</a></li>
+            <li><a href="#">Sản phẩm</a></li>
+            <li><a href="#">Liên hệ</a></li>
+        </ul>
+    </nav>
+</header>
+
+<section>
+    <h2>Sản phẩm nổi bật</h2>
+    <!-- Thêm mã HTML cho sản phẩm nổi bật -->
+</section>
+
+<footer>
+    <p>&copy; 2024 Trang Web Bán Hàng. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
